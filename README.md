@@ -7,4 +7,4 @@ A Spray Rover design developed using Blender
 
 You can download Blender file from the link in below !
 
-[Click Me](https://drive.google.com/file/d/14t-DIIVI9wD84Mxvg9R-LG9YTeTzweCR/view?usp=sharing)
+[Click here to Download Blend file](https://drive.google.com/file/d/14t-DIIVI9wD84Mxvg9R-LG9YTeTzweCR/view?usp=sharing)
